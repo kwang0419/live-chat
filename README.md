@@ -71,11 +71,3 @@ live-chat/
 ├─ package.json
 └─ README.md
 
-
----
-
-## 👤 Author
-
-Kaiwen Wang
-Frontend Developer (Vue / Firebase)
-GitHub: https://github.com/kwang0419
