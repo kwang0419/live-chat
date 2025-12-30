@@ -72,7 +72,10 @@ live-chat/
 └─ README.md
 
 
-## Author
+---
+
+## 👤 Author
+
 Kaiwen Wang
 Frontend Developer (Vue / Firebase)
 GitHub: https://github.com/kwang0419
